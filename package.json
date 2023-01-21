@@ -1,8 +1,9 @@
 {
-  "name": "next-firebase-starter",
+  "name": "react-joke-generator",
   "private": true,
   "version": "1.0.0",
-  "author": "Trinity Christiana",
+  "author": "Danny Villalobos",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
